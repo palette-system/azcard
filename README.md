@@ -1,6 +1,6 @@
 # azcard (エーゼットカード)
 
-<img src="/docs/img/make_32.jpg" height="800">
+<img src="/docs/img/make_32.jpg" height="400">
 
 <br><br><br>
 
@@ -10,4 +10,11 @@
 
 ## リンク
 
-<a href="/docs/buildguide/README.md">ビルドガイド</a><br>
+<a href="/docs/buildguide/README.md">ビルドガイド</a><br><br>
+
+<a href="https://palette-system.github.io/az-core/azcard.html">ファームウェアの書き込みページ</a><br><br>
+
+<a href="https://palette-system.github.io/aztool/">キー設定ページ</a><br><br>
+
+<a href="https://github.com/palette-system/az-core/tree/main/firmware/az_keyboard">ファームウェアのソースコード</a><br><br>
+
