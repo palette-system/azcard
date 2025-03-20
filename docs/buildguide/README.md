@@ -48,9 +48,11 @@ LEDの位置が左右に寄ってしまうと、LEDパッド裏のVCC、GNDな�
 
 ## ６．LEDとスイッチの動作確認
 Chromeで下記リンクを開き、手順に従って動作確認用ファームウェアを書き込んでください。<br>
-<a href="#">ファームウェア書き込みサイト</a><br>
+<a href="https://palette-system.github.io/az-core/azcard.html">ファームウェア書き込みサイト</a><br>
 <br>
 書き込んだらスイッチ部分をピンセットでショートさせて、ボタンの部分のLEDが点灯する事を確認して下さい。<br>
+
+![pic](/docs/img/firm_1.png)
 ![pic](/docs/img/make_07.jpg)
 ![pic](/docs/img/make_08.jpg)
 <br><br>
@@ -100,8 +102,10 @@ PCBの裏面に木工用ボンドを塗り、たまたま家に余っていたES
 
 ## １３．AZCARDキーボードのファームウェアの書き込み
 Chromeで下記リンクを開き、手順に従って動作確認用ファームウェアを書き込んでください。<br>
-<a href="#">ファームウェア書き込みサイト</a><br>
+<a href="https://palette-system.github.io/az-core/azcard.html">ファームウェア書き込みサイト</a><br>
 <br>
+
+![pic](/docs/img/firm_2.png)
 ![pic](/docs/img/make_18.jpg)
 <br><br>
 
